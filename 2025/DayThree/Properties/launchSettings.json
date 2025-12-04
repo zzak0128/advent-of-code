@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "daythree": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\703434671\\Repos\\Practice\\advent-of-code\\2025\\DayThree\\daythreeinput_practice.txt"
+    }
+  }
+}
