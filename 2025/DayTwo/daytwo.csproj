@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PublishAot>true</PublishAot>
+    <PackAsTool>true</PackAsTool>
+    <UserSecretsId>daytwo-287d2753689ec0b36613cdde314caebba7e6aaad653e62a8ba420bc90b2fe732</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
